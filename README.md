@@ -1,1 +1,1 @@
-# Accidemt-detection-and-alerting-system
+# Accident-detection-and-alerting-system
